@@ -1,0 +1,4 @@
+image:
+  repository: quan129/slr
+  tag: latest
+  pullPolicy: Always # Should be IfNotPresent when using tag number and Always if latest
